@@ -577,3 +577,25 @@ LinkedIn: [Munajat](https://www.linkedin.com/in/bymunajat/) <br/>
 Github: [https://github.com/bymunajat](https://github.com/bymunajat) 
 
 <hr/>
+
+
+### Muhammad Dhiyaul Atha
+
+Salam kenal, saya biasa dipanggil <strong>Atha</strong>.  
+Saya adalah seorang <strong>mahasiswa</strong> yang sedang mendalami bidang <strong>Web Development</strong>, khususnya menggunakan teknologi <strong>PHP dengan Laravel</strong> sebagai framework backend.
+
+Saya berasal dari Aceh.  
+Seiring berjalannya waktu, semakin saya belajar, saya menyadari masih banyak hal yang perlu saya kuasai dalam dunia pengembangan web. Oleh karena itu, saya terus berupaya untuk belajar secara konsisten, dengan komitmen dan kedisiplinan diri, agar kelak dapat menjadi seorang web developer yang andal dan profesional.
+
+Di sisi lain, saya juga memiliki ketertarikan dalam mengeksplorasi dan mengoprek <strong>sistem operasi berbasis Linux</strong>, khususnya <strong>Arch Linux</strong> beserta turunannya.  
+Menurut saya, proses pengaturan dan konfigurasi sistem di Linux memberikan tantangan sekaligus pemahaman yang lebih mendalam dibandingkan menggunakan sistem operasi lain.
+
+Ke depannya, saya sangat ingin terus mengikuti dan mempelajari perkembangan teknologi terkini, baik dalam bidang web development maupun sistem operasi, demi memperluas wawasan dan keterampilan saya di dunia IT.
+
+Untuk berdiskusi lebih lanjut mengenai perkembangan teknologi atau diskusi umum , Anda dapat menghubungi saya melalui:
+
+🧃 Bento: <a href="https://bento.me/mdhiyaulatha" target="_blank">https://bento.me/mdhiyaulatha</a>  
+🐙 GitHub: <a href="https://github.com/Bangkah" target="_blank">github.com/Bangkah</a>
+
+
+<hr/>
