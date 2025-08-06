@@ -121,6 +121,14 @@ Salam kenal semua , Saya Renaldi dari Surabaya . Saat ini masih proses belajar m
 
 <hr/>
 
+### Renaldi D.
+
+Salam kenal semua , Saya Atha seorang mahasiswa it yang tertarik dengan perkembangan teknologi saat ini. Sekarang saya sedang mempelajari Web FullStack menggunakan Laravel. Kedepannya saya ingin mempelajari teknologi-teknologi lain seperti Flutter, JavaScript dan lain lain untuk menambah pengetahuan saya dalam perkembangan teknologi saat ini
+
+[https://github.com/Bangkah)
+
+<hr/>
+
 ### Abdur Rahim
 
 Hai, saya fullstack developer berasal dari Mempawah, Kalimantan Barat. Saat ini masih kuliah yang jurusannya berbeda jauh sama passion saya. Kebetulan saya suka sekali membuat code menggunakan JavaScript. Untuk ngoding di frontend saya biasanya make React js, Vue js and React Native. Sedangkan dibagian backendnya biasa menggunakan Node Js/Express Js dan MongoDB/MySQL. Kedepannya saya ingin mempelajari teknologi-teknologi lain seperti Flutter/Dart yang lagi trendy sekaligus mempertajam pengetahuan saya di teknologi-teknologi yang telah saya pelajari.
