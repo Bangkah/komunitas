@@ -577,3 +577,13 @@ LinkedIn: [Munajat](https://www.linkedin.com/in/bymunajat/) <br/>
 Github: [https://github.com/bymunajat](https://github.com/bymunajat) 
 
 <hr/>
+
+### Muhammad Dhiyaul Atha
+
+Salam kenal semua, saya bisa dipanggil **Atha**, saya ingin menjadi **UI/UX Developer** dan **Full Stack Web Developer** saya berasa dari Aceh <br/>
+Saya sangat sengan untuk belajar mengenai hal baru dan terus mengimprove diri sendiri agar dapat memberikan kontribusi kepada dunia ini<br/>
+saya sekarang ingin memperdalam **Vue** dan **HTML,CSS,JS** serta **React**
+
+Github: [https://github.com/MoriMomo](https://github.com/Bangkah) 
+
+<hr/>
